@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  outline: 0;
+}
+
+body {
+  padding: 20px 50px;
+  background-color: rgb(162, 0, 177);
+}
+
+header h1 {
+  display: block;
+  text-align: center;
+  color: white;
+}
+
+.calc-opts {
+  display: flex;
+  flex: 1;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+
+.calc-opts li {
+  list-style: none;
+  text-align: center;
+  margin: 30px;
+  height: 180px;
+  font-size: 60px;
+  background-color: rgb(120, 0, 145);
+  color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border-radius: 20px;
+  cursor: pointer;
+}
