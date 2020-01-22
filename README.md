@@ -1,3 +1,9 @@
+# Invest Monitor
+
+Desenvolvi essa aplicação enquanto estudava ReactJS para fixar os conceitos que aprendi.
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
