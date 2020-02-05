@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import './style.css';
 import { useHistory } from 'react-router-dom';
 
@@ -15,7 +15,7 @@ const Home = () => {
       case 'commitment':
         history.push(`/calculate/commitment`);
         break;
-      default: 
+      default:
         break;
     }
   }, [history, operation]);

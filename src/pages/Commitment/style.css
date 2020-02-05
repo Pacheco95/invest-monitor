@@ -51,5 +51,6 @@
 }
 
 .reactjs-date-picker {
+  cursor: pointer;
   text-align: center;
 }
